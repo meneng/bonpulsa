@@ -1,2 +1,2 @@
 # bonpulsa
-aplikasi untuk mencatat bon/piutang pulsa
+aplikasi sederhana untuk mencatat bon/piutang pulsa
